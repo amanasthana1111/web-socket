@@ -1,0 +1,5 @@
+websocket = persistent connection // once connection made it connect and sent again again req
+in 3 way handshaking
+every time req sent 3 way handshaking made and close when res reviced
+
+websocket = full duplex communication
