@@ -12,3 +12,9 @@ socket.on("message",(e)=>{
     // socket.send("hello")
 })
 });
+
+// fronend link
+// ws://localhost:8080
+// ws.onmessage = (e)=>{
+// alert (else.data)
+// }
